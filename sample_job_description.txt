@@ -1,0 +1,3 @@
+We are looking for a junior AI and Data Science developer.
+Required skills: Python, SQL, machine learning, data analysis, pandas, scikit-learn and Git.
+Good communication, teamwork and problem-solving skills are preferred.
